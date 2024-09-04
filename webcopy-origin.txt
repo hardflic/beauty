@@ -1,0 +1,832 @@
+Uri: https://firstsight.design/cherie/beauty/wp-content/uploads/2020/07/Our-Story-Hero.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\cherie\beauty\wp-content\uploads\2020\07\Our-Story-Hero.png
+Content Type: image/png
+
+Uri: https://firstsight.design/cherie/beauty/wp-content/uploads/2020/07/Service-Menu-Hero.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\cherie\beauty\wp-content\uploads\2020\07\Service-Menu-Hero.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=EB+Garamond:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.5
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkBI96.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NkBI96.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-a_NkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkBI96.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-DPNkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNkBI96.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-NfNkBI96.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R799U60.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7c8R799U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR799U60.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7dbR799U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR799U60.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7diR799U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL99U60.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7e8QL99U60.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ebgaramond/v27/SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQL99U60.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\s\ebgaramond\v27\SlGFmQSNjdsmc35JDF1K5GRwUjcdlttVFm-rI7eOQL99U60.ttf
+Content Type: font/ttf
+
+Uri: https://lecomptoirdeparis.ma/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\index.htm
+Content Type: text/html
+
+Uri: https://lecomptoirdeparis.ma/appointments/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\appointments\index.htm
+Content Type: text/html
+
+Uri: https://lecomptoirdeparis.ma/comments/feed/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lecomptoirdeparis.ma/contact-v1/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\contact-v1\index.htm
+Content Type: text/html
+
+Uri: https://lecomptoirdeparis.ma/feed/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lecomptoirdeparis.ma/nos-prestations/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\nos-prestations\index.htm
+Content Type: text/html
+
+Uri: https://lecomptoirdeparis.ma/notre-equipe/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\notre-equipe\index.htm
+Content Type: text/html
+
+Uri: https://lecomptoirdeparis.ma/our-story/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\our-story\index.htm
+Content Type: text/html
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkAI95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkAI95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkB495WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkB495WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkBI95WamXgElL.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkBI95WamXgElL.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkC495WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkC495WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCI95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCI95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCo95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCo95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCY95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-2fRkCY95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkAI95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkAI95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkB495WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkB495WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI95WamXgElL.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkBI95WamXgElL.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkC495WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkC495WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCI95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCI95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCo95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCo95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/eb-garamond/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCY95WamXgElLbvw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\eb-garamond\SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkCY95WamXgElLbvw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI4un_HKCEk.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\jost\92zPtBhPNqw79Ij1E865zBUv7myRJTVBNI4un_HKCEk.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myRJTVFNI4un_HKCEl-Cw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\jost\92zPtBhPNqw79Ij1E865zBUv7myRJTVFNI4un_HKCEl-Cw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7myRJTVPNI4un_HKCEl-Cw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\jost\92zPtBhPNqw79Ij1E865zBUv7myRJTVPNI4un_HKCEl-Cw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI4un_HKCEk.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\jost\92zPtBhPNqw79Ij1E865zBUv7mz9JTVBNI4un_HKCEk.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mz9JTVFNI4un_HKCEl-Cw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\jost\92zPtBhPNqw79Ij1E865zBUv7mz9JTVFNI4un_HKCEl-Cw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/fonts/jost/92zPtBhPNqw79Ij1E865zBUv7mz9JTVPNI4un_HKCEl-Cw.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\fonts\jost\92zPtBhPNqw79Ij1E865zBUv7mz9JTVPNI4un_HKCEl-Cw.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/ameliabooking/public/css/frontend/elementor.css?ver=6.3.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\ameliabooking\public\css\frontend\elementor.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/ameliabooking/public/fonts/amelia-logo-beta.svg?23799949740ff8bddac3a62f1692a367
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\ameliabooking\public\fonts\amelia-logo-beta.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/ameliabooking/public/fonts/amelia-logo-symbol.svg?26b1423ada37dd8d73a400f9ffb2d4b0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\ameliabooking\public\fonts\amelia-logo-symbol.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/ameliabooking/v3/public/assets/public.472e2d85.js?ver=6.3.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\ameliabooking\v3\public\assets\public.472e2d85.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/cherie-core/assets/js/countdown/countdown.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\cherie-core\assets\js\countdown\countdown.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/cherie-core/assets/js/magnific-popup/jquery.magnific-popup.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\cherie-core\assets\js\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/cherie-core/assets/js/magnific-popup/magnific-popup.css?ver=1.1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\cherie-core\assets\js\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/cherie-core/assets/js/scripts.js?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\cherie-core\assets\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/cherie-core/assets/js/swiper/swiper-bundle.min.css?ver=1.1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\cherie-core\assets\js\swiper\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/cherie-core/assets/js/swiper/swiper-bundle.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\cherie-core\assets\js\swiper\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.20.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.20.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.20.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.20.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1-wc.7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\js\jquery-cookie\jquery.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.9.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.4.6
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.4.6
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.8.0.2
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/amelia.css?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\amelia.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fontello/css/cherie-font-embedded.css?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fontello\css\cherie-font-embedded.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fontello/font/cherie-font.eot?86480028
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fontello\font\cherie-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fontello/font/cherie-font.svg?86480028
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fontello\font\cherie-font.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/font-awesome/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\font-awesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/font-awesome/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\font-awesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/font-awesome/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\font-awesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/font-awesome/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\font-awesome\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/font-awesome/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\font-awesome\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/font-awesome/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\font-awesome\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/general.css?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\general.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/arrow.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/arrow_back.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\arrow_back.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/arrow_left.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\arrow_left.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/arrow_right.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\arrow_right.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/checkbox.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\checkbox.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/cherie_arrow_down.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\cherie_arrow_down.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/chevron.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\chevron.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/close-big.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\close-big.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/close.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\close.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/images/plus.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\images\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/libs/bootstrap.css?ver=4.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\libs\bootstrap.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/libs/font-awesome.css?ver=4.7
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\libs\font-awesome.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/libs/fresco/fresco.css?ver=2.3.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\libs\fresco\fresco.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/libs/fresco/fresco/skins/fresco/sprite.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\libs\fresco\fresco\skins\fresco\sprite.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/libs/fresco/fresco/skins/fresco/sprite.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\libs\fresco\fresco\skins\fresco\sprite.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/css/libs/slick-slider.css?ver=4.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\css\libs\slick-slider.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/scripts.js?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/animate/animate.css?ver=1.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\animate\animate.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/jarallax.min.js?ver=1.12.5
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\jarallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/mega-menu.js?ver=1.10.6
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\mega-menu.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/mega-menu/mega-menu-start.js?ver=1.10.6
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\mega-menu\mega-menu-start.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/slick.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/theia-sticky-sidebar/ResizeSensor.min.js?ver=1.8.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\theia-sticky-sidebar\ResizeSensor.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/theia-sticky-sidebar/theia-sticky-sidebar.min.js?ver=1.8.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\theia-sticky-sidebar\theia-sticky-sidebar.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/themes/cherie/assets/js/vendors-libs/TweenMax.js?ver=2.0.2
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\themes\cherie\assets\js\vendors-libs\TweenMax.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2020/05/Nails-1.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2020\05\Nails-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2020/11/Main-blur@2x-scaled-1-1.jpg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2020\11\Main-blur@2x-scaled-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2020/12/Epilation-1.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2020\12\Epilation-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2020/12/Eye-Care-1.svg
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2020\12\Eye-Care-1.svg
+Content Type: image/svg+xml
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/07/logoblack.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\07\logoblack.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/07/logowhite.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\07\logowhite.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/AnyConv.com__1-1-120x120.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\AnyConv.com__1-1-120x120.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/AnyConv.com__1-1-150x150.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\AnyConv.com__1-1-150x150.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/AnyConv.com__1-1-300x300.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\AnyConv.com__1-1-300x300.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/AnyConv.com__1-1-600x600.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\AnyConv.com__1-1-600x600.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/AnyConv.com__1-1-768x768.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\AnyConv.com__1-1-768x768.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/AnyConv.com__1-1.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\AnyConv.com__1-1.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/Echosline_Marchio2021_PANTONI-removebg-preview-1.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\Echosline_Marchio2021_PANTONI-removebg-preview-1.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/institut-de-beaute-casablanca.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\institut-de-beaute-casablanca.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/kerastase-paris-logo.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\kerastase-paris-logo.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/loreal-professionnel-logo.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\loreal-professionnel-logo.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/opi-logo.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\opi-logo.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/salon-de-beaute-casablanca.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\salon-de-beaute-casablanca.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/salon-de-beaute-luxe-casablanca.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\salon-de-beaute-luxe-casablanca.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/09/salon-de-coiffure-casablanca.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\09\salon-de-coiffure-casablanca.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/10/cropped-logo_le_comptoir_de_paris-180x180.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\10\cropped-logo_le_comptoir_de_paris-180x180.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/10/cropped-logo_le_comptoir_de_paris-192x192.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\10\cropped-logo_le_comptoir_de_paris-192x192.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/10/cropped-logo_le_comptoir_de_paris-32x32.png
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\10\cropped-logo_le_comptoir_de_paris-32x32.png
+Content Type: image/png
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/11/notre-equipe-coifeuse.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\11\notre-equipe-coifeuse.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/11/notre-equipe-estheticienne.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\11\notre-equipe-estheticienne.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/2023/11/notre-equipe-prothesiste-ongulaire.webp
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\2023\11\notre-equipe-prothesiste-ongulaire.webp
+Content Type: image/webp
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/global.css?ver=1690548855
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-11.css?ver=1690548855
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-1195.css?ver=1707410728
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-1195.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-2913.css?ver=1701514690
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-2913.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-32.css?ver=1718295763
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-32.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-3529.css?ver=1723916391
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-3529.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-821.css?ver=1697728970
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-821.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-content/uploads/elementor/css/post-939.css?ver=1707409575
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-content\uploads\elementor\css\post-939.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/css/dist/block-library/style.min.css?ver=6.3.5
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\js\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-includes/js/wp-util.min.js?ver=6.3.5
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: https://lecomptoirdeparis.ma/wp-json/
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2F
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2F&format=xml
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fappointments%2F
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fappointments%2F&format=xml
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fcontact-v1%2F
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fcontact-v1%2F&format=xml
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fnos-prestations%2F
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fnos-prestations%2F&format=xml
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fnotre-equipe%2F
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Fnotre-equipe%2F&format=xml
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Four-story%2F
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/oembed/1.0/embed?url=https:%2F%2Flecomptoirdeparis.ma%2Four-story%2F&format=xml
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://lecomptoirdeparis.ma/wp-json/wp/v2/pages/1195
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\wp\v2\pages\1195
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/wp/v2/pages/2913
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\wp\v2\pages\2913
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/wp/v2/pages/32
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\wp\v2\pages\32
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/wp/v2/pages/3529
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\wp\v2\pages\3529
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/wp/v2/pages/821
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\wp\v2\pages\821
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/wp-json/wp/v2/pages/939
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\wp-json\wp\v2\pages\939
+Content Type: application/json
+
+Uri: https://lecomptoirdeparis.ma/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\lecomptoirdeparis.ma\xmlrpc.php
+Content Type: text/xml
+
